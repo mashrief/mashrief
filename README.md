@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning JavaScript, React Js
-<br />
+
+
 ### To find out my problem solving experience [Click Here](https://www.stopstalk.com/user/profile/Nabil_Mashrief37)
-<br />
+
+
 ### Connect with me:
 <a href="mailto: msshrief@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
