@@ -41,8 +41,9 @@
 <br />
 
 📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mashrief&hide_title=true&hide_border=true&langs_count=5)
+<!--END_SECTION:waka-->
 
 [instagram]: https://www.instagram.com/nabil_mashrief/
 [linkedin]: https://www.linkedin.com/in/nabilmashrief/
