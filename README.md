@@ -43,7 +43,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-C++   23 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
