@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning JavaScript, React Js
+- 🌱 I’m currently learning ASP.Net Core
 
 
 ### To find out my problem solving experience [Click Here](https://www.stopstalk.com/user/profile/Nabil_Mashrief37)
