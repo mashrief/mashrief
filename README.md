@@ -48,7 +48,7 @@
 ```text
 Total: 1 min
 
-CSHTML   1 min           █████████████████████████   100.00 % 
+Other        6 mins          █████████████████████░░░░   83.99 % 
 ```
 <!--END_SECTION:waka-->
 
